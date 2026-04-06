@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheethal C</h1>
 <h3 align="center">ECE Graduate passionate about Embedded Systems, Microcontrollers, and Real-Time Firmware Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheethal126&label=Profile%20views&color=0e75b6&style=flat" alt="sheethal126" /> </p>
 
 
 
