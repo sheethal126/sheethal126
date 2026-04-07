@@ -13,14 +13,13 @@ Hello! I'm Sheethal C, a passionate Embedded Systems developer hailing from Bang
 ## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-orange?style=flat-square)
-
 ---
 
 ## 📊 GitHub Stats
 
-![Sheethal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheethal126&show_icons=true&theme=radical)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheethal126&theme=radical)
 
