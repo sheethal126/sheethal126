@@ -1,6 +1,6 @@
 # Sheethal C 🌐
 
-**Embedded Systems Enthusiast | Firmware Developer | Tech Innovator**
+**Open to Work | Embedded Systems Enthusiast | Firmware Developer | Tech Innovator**
 
 ---
 
