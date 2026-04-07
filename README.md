@@ -35,9 +35,8 @@ Hello! I'm Sheethal C, a passionate Embedded Systems developer hailing from Bang
 
 ## 🤝 Connect with Me
 
-- **Email**: [sheethal@example.com](mailto:sheethal@example.com)
-- **LinkedIn**: [Sheethal C](https://www.linkedin.com/in/sheethal-c)
-
+- **Email**: [sheethalc126@gmail.com](mailto:sheethal@example.com)
+- **LinkedIn**: [Sheethal C](https://www.linkedin.com/in/sheethal-c-6a9970310)
 ---
 
 Thank you for visiting my profile! Feel free to reach out to collaborate on exciting embedded system projects! 😊
